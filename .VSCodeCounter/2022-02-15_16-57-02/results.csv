@@ -1,0 +1,20 @@
+"filename", "language", "XML", "C#", "comment", "blank", "total"
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\App.xaml", "XML", 8, 0, 0, 2, 10
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\App.xaml.cs", "C#", 0, 13, 3, 2, 18
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\Black Jack Game.csproj", "XML", 103, 0, 0, 0, 103
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\Card.cs", "C#", 0, 68, 0, 23, 91
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\CardTools.cs", "C#", 0, 86, 0, 25, 111
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\Deck.cs", "C#", 0, 127, 0, 37, 164
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\MainWindow.xaml", "XML", 87, 0, 4, 23, 114
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\MainWindow.xaml.cs", "C#", 0, 359, 5, 100, 464
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\Player.cs", "C#", 0, 108, 0, 31, 139
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\Properties\AssemblyInfo.cs", "C#", 0, 20, 27, 9, 56
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\Properties\Resources.Designer.cs", "C#", 0, 40, 23, 9, 72
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\Properties\Settings.Designer.cs", "C#", 0, 16, 9, 6, 31
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\Table.cs", "C#", 0, 26, 0, 8, 34
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.cs", "C#", 0, 3, 1, 1, 5
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\App.g.cs", "C#", 0, 42, 18, 11, 71
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\App.g.i.cs", "C#", 0, 42, 18, 11, 71
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\MainWindow.g.cs", "C#", 0, 304, 15, 109, 428
+"c:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\MainWindow.g.i.cs", "C#", 0, 304, 15, 109, 428
+"Total", "-", 198, 1558, 138, 516, 2410

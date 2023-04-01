@@ -1,0 +1,15 @@
+C:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\Black Jack Game.csprojAssemblyReference.cache
+C:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\MainWindow.g.cs
+C:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\App.g.cs
+C:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\Black Jack Game_MarkupCompile.cache
+C:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\Black Jack Game_MarkupCompile.lref
+C:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\bin\Debug\Black Jack Game.exe.config
+C:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\bin\Debug\Black Jack Game.exe
+C:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\bin\Debug\Black Jack Game.pdb
+C:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\MainWindow.baml
+C:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\Black Jack Game.g.resources
+C:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\Black_Jack_Game.Properties.Resources.resources
+C:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\Black Jack Game.csproj.GenerateResource.cache
+C:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\Black Jack Game.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\Black Jack Game.exe
+C:\Users\Angelo\source\repos\Black Jack Game\Black Jack Game\obj\Debug\Black Jack Game.pdb
